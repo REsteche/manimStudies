@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/integral/480p15/partial_movie_files/IntegralExplanation/1185818338_2275572674_223132457.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/integral/480p15/partial_movie_files/IntegralExplanation/624642324_3921899444_1035482577.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/integral/480p15/partial_movie_files/IntegralExplanation/624642324_4043866700_289874228.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/integral/480p15/partial_movie_files/IntegralExplanation/624642324_784179552_3447459118.mp4'
