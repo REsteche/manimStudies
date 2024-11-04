@@ -1,5 +1,5 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/1185818338_1908985460_223132457.mp4'
-file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_4259298527_1419366319.mp4'
-file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_2297694289_1851495565.mp4'
-file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manim/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_784179552_815607940.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manimStudies/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/1185818338_2275572674_223132457.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manimStudies/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_2729892851_1035482577.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manimStudies/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_2590622281_2474614669.mp4'
+file 'file:C:/Users/ruben/OneDrive/Documentos/Git Posts/git/manimStudies/media/videos/derivative/480p15/partial_movie_files/DerivativeExplanation/624642324_784179552_2167629365.mp4'

@@ -27,6 +27,10 @@ class SquareToCircle(Scene):
 '''
 run with: manim -pql test.py SquareToCircle
 
+(keep in mind that this is designed to compile the whole video, 
+not just preview it using grants normal workflow - 
+I'll try to adapt the workflow locally using his new tutorial)
+
 The -pql flag means “preview” the animation, with “low quality”. 
 You can use -qh for high quality.
 
